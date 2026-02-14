@@ -25,7 +25,6 @@ Discover delicious recipes from around the world. Search real recipes, explore i
 
 ## 🖼 Screenshots
 
-> 📌 Add these images inside a `screenshots/` folder in your repository
 
 ### 🏠 Home Page
 <img width="1900" height="876" alt="Screenshot 2026-02-14 222138" src="https://github.com/user-attachments/assets/fa7f9e10-87e4-484c-aca3-7e035f5fe614" />
@@ -43,7 +42,7 @@ Discover delicious recipes from around the world. Search real recipes, explore i
 <img width="1900" height="876" alt="Screenshot 2026-02-14 222311" src="https://github.com/user-attachments/assets/213c885a-e441-4fa5-a277-508c2a0a9209" />
 
 
-### 📖 Ingredeants & Instructions 
+### 📌 Ingredeants & Instructions 
 <img width="1898" height="871" alt="Screenshot 2026-02-14 222339" src="https://github.com/user-attachments/assets/1ff5f05c-420d-4e03-91c2-0a58d68f752c" />
 
 
