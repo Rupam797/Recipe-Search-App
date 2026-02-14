@@ -12,7 +12,7 @@ export default function Footer() {
           {/* Brand Section */}
           <div className="space-y-3">
             <h3 className="font-semibold text-lg text-gray-900 flex items-center gap-2">
-              🍳 Recipe Search
+              🍳 Quick Recipe Search
             </h3>
             <p className="text-sm text-gray-600 leading-relaxed">
               Discover delicious recipes from around the world. Cook with confidence.
@@ -20,21 +20,21 @@ export default function Footer() {
             {/* Social Links */}
             <div className="flex items-center gap-3 pt-2">
               <a 
-                href="#" 
+                href="https://x.com/rupamgiri_" 
                 className="w-9 h-9 rounded-full bg-gray-100 hover:bg-green-500 text-gray-600 hover:text-white flex items-center justify-center transition-all duration-200 hover:scale-110"
                 aria-label="Twitter"
               >
                 <Twitter size={16} />
               </a>
               <a 
-                href="#" 
+                href="https://github.com/Rupam797" 
                 className="w-9 h-9 rounded-full bg-gray-100 hover:bg-green-500 text-gray-600 hover:text-white flex items-center justify-center transition-all duration-200 hover:scale-110"
                 aria-label="Github"
               >
                 <Github size={16} />
               </a>
               <a 
-                href="#" 
+                href="mailto:work.rupam.giri@gmail.com" 
                 className="w-9 h-9 rounded-full bg-gray-100 hover:bg-green-500 text-gray-600 hover:text-white flex items-center justify-center transition-all duration-200 hover:scale-110"
                 aria-label="Email"
               >

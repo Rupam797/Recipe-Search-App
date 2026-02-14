@@ -57,7 +57,7 @@ export default function Header() {
               <span className="text-2xl group-hover:scale-110 transition-transform duration-300">
                 🍳
               </span>
-              <span className="hidden sm:inline">Recipe Search</span>
+              <span className="hidden sm:inline">Quick Recipe Search</span>
               <span className="sm:hidden">Recipes</span>
             </Link>
 
